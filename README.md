@@ -1,5 +1,6 @@
-First React project
-Created a simple app which lets you add,delete and search for notes
+First React project.
+
+Created a simple react  app which lets you add,delete and search for notes
 .
 ## Available Scripts
 
